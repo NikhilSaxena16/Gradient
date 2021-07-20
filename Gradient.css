@@ -1,0 +1,54 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	background-color: black;
+	
+}
+.a{
+	width: 50px;
+	height: 109px;
+	border: 1px solid black;
+	background-image: linear-gradient(to right,yellow,FireBrick,Navy,DodgerBlue );
+	border-top-left-radius: 90px;
+	border-bottom-left-radius: 90px;
+	margin-left: 350px;
+	margin-top: 270px;
+}
+.b{
+	width: 50px;
+	height: 109px;
+	border: 1px solid black;
+	background-image: linear-gradient(to top,FireBrick,Navy,DodgerBlue,Navy,black,grey,darkgreen,LightSalmon,yellow,pink,ghostwhite,yellow,white,yellow,limegreen);
+	border-radius: 50px;
+	margin-left: 465px;
+	margin-top: -110px;
+}
+.c{
+	width: 27px;
+	height: 109px;
+	border: 1px solid black;
+	background-image: linear-gradient(to right,OrangeRed,white,green);
+	border-top-left-radius: 20px;
+	border-bottom-right-radius:20px;
+	margin-left: 580px;
+	margin-top: -111px;
+}
+.d{
+	width: 50px;
+	height: 109px;
+	border: 1px solid black;
+	background-image: linear-gradient(to bottom,FireBrick,Navy,DodgerBlue,Navy,black,grey,darkgreen,LightSalmon,yellow,pink,ghostwhite,yellow,white,OrangeRed);
+	border-radius: 50px ;
+	margin-left: 700px;
+	margin-top: -112px;
+}
+.e{
+	width: 50px;
+	height: 109px;
+	border: 1px solid black;
+	background-image: linear-gradient(to right,pink,red,yellow);
+	border-top-right-radius: 90px;
+	border-bottom-right-radius: 90px;
+	margin-left: 830px;
+	margin-top: -113px;
+}
